@@ -63,6 +63,8 @@ git commit -m "Вернул famous_info.py в исходное состояни�
 ```
 git push origin --all
 ```
+- Создайте pull request через web-интерфейс:
+<image src="https://github.com/Pav9551/lesson5-git-pull/blob/master/create_pr.png" alt="Текст с описанием картинки">
 
 
 
