@@ -27,7 +27,10 @@ git clone https://github.com/Pav9551/lesson5-git-pull.git
 ```
 cd .\lesson5-git-pull\
 ```
-
+- Создайте новую ветку - lesson5
+```
+git branch lesson5
+```
 - Создайте новую ветку - lesson4
 ```
 git branch lesson4
