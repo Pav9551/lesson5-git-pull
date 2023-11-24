@@ -10,6 +10,8 @@
 - victory.py
 все эти файлы требуют модуль random.py
 (Рефакторинг (refactoring) — это процесс изменения внутренней структуры программы, не затрагивающий её внешнего поведения и имеющий целью облегчить понимание её работы.)
-3. В результате рефакторинга создается новый модуль - famous_persons.py, который позволяет убрать дублирование кода.
-4. Как вспомогательный матерьял рекомеендовано почитать про модули https://smartiqa.ru/courses/python/lesson-5 и посмотреть https://www.youtube.com/watch?v=1upalKiDeEI&t=1286s по Git
+3. В результате рефакторинга создается новый модуль - famous_persons.py, который позволяет убрать дублирование кода (Рис. 1).
+<image src="https://github.com/Pav9551/lesson5-git-pull/blob/master/refactoring.vpd.png" alt="Текст с описанием картинки">
+4. Как вспомогательный матерьял рекомеендовано почитать про модули https://smartiqa.ru/courses/python/lesson-5
+5. И посмотреть https://www.youtube.com/watch?v=1upalKiDeEI&t=1286s по Git
 
